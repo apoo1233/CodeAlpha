@@ -121,7 +121,7 @@ Provides an overview of the project, methodology, dataset, and results.
 ## 8. How to Run the Project
 
 ### Step 1: Clone the Repository
-https://github.com/yourusername/Student-Performance-EDA.git
+https://github.com/apoo1233/Student-Performance-EDA.git
 ### Step 2: Navigate to the Project Directory
 cd Student-Performance-EDA
 ### Step 3: Install Required Libraries
